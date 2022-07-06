@@ -1,15 +1,6 @@
 # [SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation(ICPR 2020)](https://arxiv.org/abs/2004.03696)
 
-## Overview
 
-![SA-UNet](SA-UNet.png?raw=true "SA-UNet")
-
-This code is for the paper: Spatial Attention U-Net for Retinal Vessel Segmentation. We report state-of-the-art performances on DRIVE and CHASE DB1 datasets.
-
-Code written by Changlu Guo, Budapest University of Technology and Economics(BME).
-
-
-We train and evaluate on Ubuntu 16.04, it will also work for Windows and OS.
 
 
 
@@ -22,10 +13,7 @@ We train and evaluate on Ubuntu 16.04, it will also work for Windows and OS.
 2.[flip.py](flip.py)<br>
 (4) horizontal, vertical and diagonal flips.
 
-if you do not want to do above augmentation,just download it from my link.
-
-[DRIVE](https://drive.google.com/file/d/1t_UxlVWZXBtJQQNxW0vPdwrnqcdYdrRs/view?usp=sharing)
-[CHASE_DB1](https://drive.google.com/file/d/1RnPR3hpKIHnu0e3y9DBOXKPXuiqPN8hg/view?usp=sharing)
+if you do not want to do above augmentation,just download it from two [data].zip above
 
 ## Quick start 
 
